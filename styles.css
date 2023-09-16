@@ -1,0 +1,40 @@
+body {
+    background: lightgray;
+    margin: 0;
+}
+#header {
+    background: white;
+    height: 80px;
+    display: flex;
+}
+h1 {
+    width: 600px;
+    margin: auto;
+}
+#content {
+    background: white;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+#content-head {
+    display: flex;
+}
+#content-head h2 {
+    margin: auto;
+    width: 100%;
+    padding-left: 10px;
+}
+#content-head p {
+    color: lightgray;
+    font-weight: bold;
+    padding: 15px;
+    margin: auto;
+}
+img {
+    width: 600px;
+}
+#content-text p {
+    margin: 0;
+    padding: 15px;
+}
